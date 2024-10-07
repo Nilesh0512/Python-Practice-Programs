@@ -1,0 +1,6 @@
+n1=bool(input("enter first number"))
+n2=bool(input("enter second number"))
+sum=(n1+n2)
+print(sum)
+prod=(n1*n2)
+print(prod)
